@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="act3CSS.CSS">
+    <title>Document</title>
+</head>
+<body>
+
+<nav>
+  <ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Contact</a></li>
+  </ul>
+</nav>
+
+<style>
+  ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+  }
+</style>
+
+
+
+
+<style>
+   
+   p{
+       font-size: 18px; line-height: 1.5;
+       font-family: Arial, sans-serif; 
+       text-align: justify; 
+    }  
+    body {
+        background-color: #eff4f6;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    a:link{
+        color: rgb(5, 2, 2);
+        text-decoration: none;
+    }
+    a:hover{
+        color: rgb(255, 0, 0);
+        text-decoration: underline;
+    }
+    a:visited{
+        color: rgb(250, 3, 3);
+        text-decoration: none;
+    }
+    .highlight {
+        background-color: rgb(232, 132, 61);
+        color: black;
+        font-weight: bold;
+    }
+    #maintitle {
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        color: #f90303;
+    }
+    #maintitle2{
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        color: #fd0202;
+    }
+    #maintitle3{
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        color: #f60505;
+    }
+    #maintitle4{
+        text-align: center;
+        font-size: 24px;
+        font-weight: bold;
+        color: #f60505;
+    }
+    .box1{
+        background-color: #e9f1a9;
+        padding: 20px;
+        margin: 20px;
+    }
+    .box2{
+        background-color: #e6f695;
+        padding: 20px;
+        margin: 20px;
+    }
+
+        img {
+        padding: 10px;
+        border: 3px solid #000;
+        margin: 15px 
+    }
+    table {
+        padding: 10px;
+        border: 2px solid #000;
+        margin: 20px;
+    }
+    form{
+        padding: 20px;
+        border: 2px solid #000;
+        margin-top: 20px;
+    }
+
+
+</style>
+    <div >
+        <p><center><h1 id="maintitle">Tutorial Basketball Blog</h1></center></p>
+        <p><center><h3>DATE OF PUBLICATION: MAY 3, 2013</h3></center></p>
+        <P><H3>NAME OF AUTHOR:RYAN P. ROLDAN</H3></P>
+        <p><center><h4><span class="highlight">This content its help childs or other age to improve the skilss in basketball</span> and give guide new players every video upload is take a time to perform the toturail anyone can copy this content to many impress and this blog is very easy to create just focus on your passion and help your self to increase your knowledge Stepping on the court feels different. The squeak of shoes, the bounce of the ball, the crowd yelling — it all pushes you to go harder. Offense is about creating space and finding the best shot. Defense is about pride and stopping the other team at all costs. But basketball isn’t just about scoring. The best players are the ones who make their teammates better. A good pass, a box out, a hustle play — those are the things that actually win games. Stepping on the court feels different. The squeak of shoes, the bounce of the ball, the crowd yelling — it all pushes you to go harder. Offense is about creating space and finding the best shot. Defense is about pride and stopping the other team at all costs. But basketball isn’t just about scoring. The best players are the ones who make their teammates better. A good pass, a box out, a hustle play — those are the things that actually win games.Stepping on the court feels different. The squeak of shoes, the bounce of the</h4></center></p>
+    
+       <ol>
+         <P><h3 id="maintitle2">HOBBYS</h3></P>   
+         <li><h4>playing sport game</h4></li>
+         <li><h4> waching sports games</h4></li>
+         <li><h4>rides in motorcycle</h4></li>   
+        </ol>
+        <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXS2hOG_MTWxKE5IK461mEDljsY-7p-N9E_gEFfu9Rpg&s=10" alt="Basketball Image" width="300" height="200">
+        <figcaption>Basketball is a great sport for all ages.</figcaption>
+        </image>
+        <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSaxiin13Z3_XSY9JEQ-HVpi3ueWkXwYHl23HG4JPb5Q&s=10" alt="Another Basketball Image" width="300" height="200">
+        <figcaption>Another great basketball image.</figcaption>
+        </image>
+        <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuM2hQgzknYfcbyiJGC5efn6VxifeJpC4KmoaXAHFGbA&s=10" alt="Third Basketball Image" width="300" height="200">
+        <figcaption>Third great basketball image.</figcaption>
+        </image>
+
+        <h2 id="maintitle3">PRACTICE SCHEDULE</h2>
+ <table border=1> 
+    <th> Day</th>
+    <th> Time </th>
+    <th> Subject </th>
+    <tr>
+        <td> WEEKEND</td>
+        <td> 6:00Aam - 3:30 pm </td>
+        <td> BASKETBALL ROUTINE</td>
+    </tr>
+    <tr>
+        <td> Wednesday</td>
+
+        <td> 1:30 pm - 3:30 pm </td>
+        <td> BASKETALL </td>
+ </table>
+        
+        <section> 
+ 
+<h2 id="maintitle4">Feedback Form</h2> 
+ 
+<form action="#" method="post"> 
+ 
+<div class=box1>
+
+1
+
+<label for="name">Name</label>
+
+<input type="text" id="name" name="name"
+
+required>
+
+</div>
+
+<div class=box2>
+
+<label for="email">Email</label>
+
+<input type="email" id="email" name="email"
+
+required>
+
+</div>
+
+<div class="box2">
+
+<label for="comments">Comments</label>
+
+<textarea id="comments" name="comments"
+
+rows="5" required></textarea>
+
+</div>
+
+<div class="box2">
+
+<label>Skills</label>
+
+<div class="inline-options">
+
+<label><input type="checkbox" name="skills"
+
+value="HTML"> HTML</label>
+
+<label><input type="checkbox" name="skills"
+
+value="CSS"> CSS</label>
+
+<label><input type="checkbox" name="skills"
+
+value="JavaScript"> JavaScript</label>
+
+</div>
+
+</div>
+
+<div>
+
+<label>Preferred Contact Method</label>
+
+<div class="inline-options">
+
+<label><input type="radio"
+
+name="contact_method" value="phone" required>
+
+Phone</label>
+
+<label><input type="radio"
+
+name="contact_method" value="email" required> Email</
+
+label>
+
+</div>
+
+</div>
+
+<label><input type="checkbox" name="skills"
+
+value="CSS"> CSS</label>
+
+<label><input type="checkbox" name="skills"
+
+value="JavaScript"> JavaScript</label>
+
+</div>
+
+</div>
+
+<div>
+
+<label>Preferred Contact Method</label>
+
+<div class="inline-options">
+
+<label><input type="radio"
+
+name="contact_method" value="phone" required>
+
+Phone</label>
+
+<label><input type="radio"
+
+name="contact_method" value="email" required> Email</
+
+label>
+
+</div>
+
+</div>
+
+<div>
+
+<label for="country">Country</label>
+
+<select id="country" name="country" required>
+
+<option value="">Select a country</option>
+
+<option value="usa">United States</option>
+
+<option value="canada">Canada</option>
+
+<option value="uk">United Kingdom</option>
+
+<option value="australia">Australia</option>
+
+<option value="philippines">Philippines</option>
+
+</select>
+
+</div>
+
+<div>
+
+<label for="profile-picture">Profile Picture</label>
+
+<input type="file" id="profile-picture"
+
+name="profile_picture" accept="image/*" required>
+
+</div>
+
+<button type="submit">Submit Feedback</button>
+
+</form>
+
+</section>
+
+<footer id="bottom">
+
+<p>End of page. This footer is the anchor destination
+
+for the internal link at the top.</p>
+
+</footer>
+
+</div> 
+
+
+<div class="cards">
+  <div class="card">Card 1</div>
+  <div class="card">Card 2</div>
+  <div class="card">Card 3</div>
+</div>
+
+<style>
+  .cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  .card {
+    width: 180px;
+    padding: 25px;
+    border: 1px solid rgb(10, 52, 131);
+    text-align: center;
+  }
+</style>
+
+<div class="gallery">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzsPUIE7QAY5eOtU5ab0DCOMyNaYWDJtyRalynAU6XSA&s=10" alt="Image 1">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcEaFS-LLakfJjuwv_Rboj7DYiCWjSBG1ra1ppxWzk_w&s=10" alt="Image 2">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvWwqxqS4eCv9G2WcxM1Nd4CsYIA2hwIs09Svk8Z5yIw&s=10" alt="Image 3">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3p2KxH5mHENQ9ZsM0IJrStF-JPF5ZhG_gmBNtnr-wbQ&s=10" alt="Image 4">
+</div>
+
+<style>
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .gallery img {
+    width: 315px;
+    height: 160px;
+    object-fit: cover;
+  }
+</style>
+
+<div class="container">
+  <div class="box">Basketball is a fun sport!</div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .box {
+    padding: 30px;
+    border: 1px solid rgb(27, 212, 30);
+  }
+</style>
+
+
+
+
+
+
+
+<style>
+    /* 1. Two-Column Blog */
+    .blog {
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 10px;
+    }
+
+    .blog div {
+      padding: 20px;
+      border: 1px solid black;
+    }
+
+    /* 2. Product Grid */
+    .products {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 10px;
+    }
+
+    .product {
+      padding: 20px;
+      border: 1px solid black;
+      text-align: center;
+    }
+
+    /* 3. Calendar */
+    .calendar {
+      display: grid;
+      grid-template-columns: repeat(7, 1fr);
+      gap: 5px;
+    }
+
+    .calendar div {
+      padding: 20px;
+      border: 1px solid black;
+      text-align: center;
+    }
+
+    /* 4. Spanning Rows and Columns */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+    }
+
+    .grid div {
+      padding: 30px;
+      border: 1px solid black;
+      text-align: center;
+    }
+
+    .item1 {
+      grid-column: span 2;
+    }
+
+    .item2 {
+      grid-row: span 2;
+    }
+
+    /* Smaller Screen */
+    @media (max-width: 600px) {
+      .products {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>Blog Layout</h2>
+  <div class="blog">
+    <div>KAYA MO YAN</div>
+    <div>USE PROPER GEAR</div>
+  </div>
+
+  <h2>Product Grid</h2>
+  <div class="products">
+    <div class="product">Product 1</div>
+    <div class="product">Product 2</div>
+    <div class="product">Product 3</div>
+    <div class="product">Product 4</div>
+  </div>
+
+  <h2>Calendar</h2>
+  <div class="calendar">
+    <div>Sun</div>
+    <div>Mon</div>
+    <div>Tue</div>
+    <div>Wed</div>
+    <div>Thu</div>
+    <div>Fri</div>
+    <div>Sat</div>
+
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7</div>
+    <div>8</div>
+    <div>9</div>
+    <div>10</div>
+    <div>11</div>
+    <div>12</div>
+    <div>13</div>
+    <div>14</div>
+    <div>15</div>
+    <div>16</div>
+    <div>17</div>
+    <div>18</div>
+    <div>19</div>
+    <div>20</div>
+    <div>21</div>
+    <div>22</div>
+    <div>23</div>
+    <div>24</div>
+    <div>25</div>
+    <div>26</div>
+    <div>27</div>
+    <div>28</div>
+    <div>29</div>
+    <div>30</div>
+  </div>
+
+  <h2>Spanning Grid</h2>
+  <div class="grid">
+    <div class="item1">Item 1</div>
+    <div class="item2">Item 2</div>
+    <div>Item 3</div>
+    <div>Item 4</div>
+  </div>
+
+
+</body>
+
+</html>
+   
+    </div>
+</body>
+</html>
